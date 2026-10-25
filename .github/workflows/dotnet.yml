@@ -25,6 +25,5 @@ jobs:
     - name: Build
       run: dotnet build --no-restore --configuration Release
 
-    # Comment out tests for now if you don’t have any
-    # - name: Run tests
-    #   run: dotnet test --no-build --verbosity normal
+    - name: Run tests
+      run: dotnet test --no-build --verbosity normal

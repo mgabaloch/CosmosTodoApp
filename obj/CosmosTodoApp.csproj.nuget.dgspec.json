@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mga_b\\OneDrive\\Documents\\Source\\CosmosTodoApp\\CosmosTodoApp.csproj": {}
+    "C:\\Users\\mga_b\\OneDrive\\Documents\\Source\\CosmosTodoApp\\CosmosTodoApp\\CosmosTodoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mga_b\\OneDrive\\Documents\\Source\\CosmosTodoApp\\CosmosTodoApp.csproj": {
+    "C:\\Users\\mga_b\\OneDrive\\Documents\\Source\\CosmosTodoApp\\CosmosTodoApp\\CosmosTodoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mga_b\\OneDrive\\Documents\\Source\\CosmosTodoApp\\CosmosTodoApp.csproj",
+        "projectUniqueName": "C:\\Users\\mga_b\\OneDrive\\Documents\\Source\\CosmosTodoApp\\CosmosTodoApp\\CosmosTodoApp.csproj",
         "projectName": "CosmosTodoApp",
-        "projectPath": "C:\\Users\\mga_b\\OneDrive\\Documents\\Source\\CosmosTodoApp\\CosmosTodoApp.csproj",
+        "projectPath": "C:\\Users\\mga_b\\OneDrive\\Documents\\Source\\CosmosTodoApp\\CosmosTodoApp\\CosmosTodoApp.csproj",
         "packagesPath": "C:\\Users\\mga_b\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mga_b\\OneDrive\\Documents\\Source\\CosmosTodoApp\\obj\\",
+        "outputPath": "C:\\Users\\mga_b\\OneDrive\\Documents\\Source\\CosmosTodoApp\\CosmosTodoApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
