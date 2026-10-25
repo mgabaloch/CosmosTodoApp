@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 class Program
 {
-    private static Container _container;
+    private static Container? _container;
 
     static async Task Main()
     {
