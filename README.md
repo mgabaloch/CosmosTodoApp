@@ -1,5 +1,7 @@
 # Cosmos DB Todo List App
 
+![Build Status](https://github.com/mgabaloch/CosmosTodoApp/actions/workflows/dotnet.yml/badge.svg)
+
 A simple **.NET console application** that demonstrates how to use **Azure Cosmos DB for NoSQL** with the **Azure SDK for .NET**.  
 This project shows basic CRUD operations (Create, Read, Update, Delete) using a Todo List example.
 
