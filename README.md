@@ -62,9 +62,7 @@ Fetched: Learn Cosmos DB, Completed: False
 - Implement partitioning strategies
 - Add unit tests
 
-📚 Resources
-Azure Cosmos DB Documentation (learn.microsoft.com in Bing)
-
-Azure SDK for .NET
-
-Microsoft Learn Path: Design and Develop with Cosmos DB (learn.microsoft.com in Bing)
+## 📚 Resources
+- Azure Cosmos DB Documentation (learn.microsoft.com in Bing)
+- Azure SDK for .NET
+- Microsoft Learn Path: Design and Develop with Cosmos DB (learn.microsoft.com in Bing)
